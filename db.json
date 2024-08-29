@@ -1,0 +1,55 @@
+{
+  "allVideos": [
+    {
+      "id": "2",
+      "name": "song2",
+      "image": "https://preview.redd.it/avesham-is-having-brilliant-reports-in-multiple-states-is-v0-nctszrleayuc1.png?auto=webp&s=aa38b62f8c5e5e11702641073cf034f37cc5858c",
+      "video": "https://www.youtube.com/embed/dEEYgBeoTc8"
+    },
+    {
+      "id": "3",
+      "name": "avesham",
+      "image": "https://preview.redd.it/avesham-is-having-brilliant-reports-in-multiple-states-is-v0-nctszrleayuc1.png?auto=webp&s=aa38b62f8c5e5e11702641073cf034f37cc5858c",
+      "video": "https://www.youtube.com/embed/ZMZQ7QOweBI"
+    }
+  ],
+  "history": [
+    {
+      "name": "Avesham",
+      "video": "https://www.youtube.com/embed/HkvVaj_28C8",
+      "timeStamp": "08/28/2024, 01:36:23 PM",
+      "id": 1
+    },
+    {
+      "name": "song2",
+      "video": "https://www.youtube.com/embed/dEEYgBeoTc8",
+      "timeStamp": "08/28/2024, 03:14:22 PM",
+      "id": 2
+    },
+    {
+      "name": "avesham",
+      "video": "https://www.youtube.com/embed/ZMZQ7QOweBI",
+      "timeStamp": "08/29/2024, 01:40:37 PM",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "movie",
+      "allVideos": [
+        {
+          "id": "3",
+          "name": "avesham",
+          "image": "https://preview.redd.it/avesham-is-having-brilliant-reports-in-multiple-states-is-v0-nctszrleayuc1.png?auto=webp&s=aa38b62f8c5e5e11702641073cf034f37cc5858c",
+          "video": "https://www.youtube.com/embed/ZMZQ7QOweBI"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "songs",
+      "allVideos": []
+    }
+  ]
+}
